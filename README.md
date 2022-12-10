@@ -15,3 +15,7 @@ Happy flow:
 - If both fail, Paper delivery is set
 4) Invoice is uploaded, and a location id is returned
 5) Invoice is then sent, using the location id and defined delivery  method.
+
+
+Documentation:<br>
+https://test.inexchange.se/docs/Home
